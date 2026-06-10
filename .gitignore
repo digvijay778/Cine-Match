@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files — track with Git LFS if needed
+# model_artifacts/*.pkl
